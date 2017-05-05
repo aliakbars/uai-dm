@@ -36,6 +36,7 @@ def update(i):
     # "artists" that have to be redrawn for this frame.
     # loss = np.dot(X, w) - y
     # grad = loss.dot(X) / len(x)
+    # Loss function = \partial E / \partial w
     loss = np.dot(X, w) - y
     grad = np.random.choice(loss)
     w = w - eta * grad
