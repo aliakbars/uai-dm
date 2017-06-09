@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 
-plt.style.use('ggplot')
+plt.style.use('fivethirtyeight')
 
 fig, ax = plt.subplots()
 fig.set_tight_layout(True)
