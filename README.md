@@ -15,6 +15,7 @@
 11. [Experimental Design](https://github.com/cs109/2015/raw/master/Lectures/22ExperimentalDesign.pdf)*
 12. [Hierarchical Clustering](12-hierarchical.pdf)
 13. [Sistem Rekomendasi](13-recsys.pdf)
+14. Kuliah Tamu: Data-Informed Practice oleh [Annabelle Wenas](https://twitter.com/annabellewenas) dari [Gojek](https://www.gojek.com/)
 
 *Materi ini diambil dari [Harvard CS109: Data Science](https://cs109.github.io/2015/)
 
