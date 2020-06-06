@@ -7,7 +7,7 @@
 3. [Jarak Antarobjek](03-jarak.pdf)
 4. [Scraping](04-scraping.pdf)
 5. [Visualisasi](05-visualisasi.pdf)
-6. [Storytelling wih Data](https://docs.google.com/presentation/d/19JSt8f6iUpWnAIlEGTmbRFaPm9AHeZfXPrFDxIqcVpM/edit?usp=sharing)
+6. [Storytelling with Data](https://docs.google.com/presentation/d/19JSt8f6iUpWnAIlEGTmbRFaPm9AHeZfXPrFDxIqcVpM/edit?usp=sharing)
 7. [Regresi Linear](07-regresi.pdf)
 8. [Decision Trees](08-dt.pdf)
 9. [Ensemble Learning](09-ensemble.pdf)
