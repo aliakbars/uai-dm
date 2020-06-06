@@ -11,10 +11,12 @@
 7. [Regresi Linear](07-regresi.pdf)
 8. [Decision Trees](08-dt.pdf)
 9. [Ensemble Learning](09-ensemble.pdf)
-10. [Statistika Bayesian](https://docs.google.com/presentation/d/17XmauQ0dNqRdY1eJrYIuo88opsyoM4M1VGRT9g0P-NU/edit?usp=sharing)
-11. [Experimental Design](https://github.com/cs109/2015/raw/master/Lectures/22ExperimentalDesign.pdf)
+10. [Statistika Bayesian](https://docs.google.com/presentation/d/1qG8yi3P9hbTzGhkUS-wpbNjjHSBZNQBk9K-VAH3JCRQ/edit?usp=sharing)
+11. [Experimental Design](https://github.com/cs109/2015/raw/master/Lectures/22ExperimentalDesign.pdf)*
 12. [Hierarchical Clustering](12-hierarchical.pdf)
 13. [Sistem Rekomendasi](13-recsys.pdf)
+
+*Materi ini diambil dari [Harvard CS109: Data Science](https://cs109.github.io/2015/)
 
 ## Tugas
 
